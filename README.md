@@ -1,2 +1,2 @@
-# CursoEmV-deo-CursoJavaScript
+# CursoEmVideo-CursoJavaScript
 Exercícios: Curso em Vídeo - Curso JavaScript
